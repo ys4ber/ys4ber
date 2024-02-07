@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40surajsambhoji_55%2Flinux-fun-commands-c650643a6c8f&psig=AOvVaw18UbKi-XierFLXBmxjqoJ3&ust=1707397209026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj387KkmYQDFQAAAAAdAAAAABAE" alt="ysaber's 42 stats" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40surajsambhoji_55%2Flinux-fun-commands-c650643a6c8f&psig=AOvVaw18UbKi-XierFLXBmxjqoJ3&ust=1707397209026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj387KkmYQDFQAAAAAdAAAAABAE" />
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
