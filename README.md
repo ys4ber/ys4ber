@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently working on minishell
-🌱 I’m currently learning C Language
+
+🌱 I’m currently learning C Language 
+
 💬 Ask me about anything
+
 📫 How to reach me: youss42@proton.me
+
 😄 Pronouns: ezekiel
+
 ⚡ Fun fact: "Talk is cheap. Show me the code"
