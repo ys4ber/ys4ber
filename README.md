@@ -31,13 +31,12 @@ Here are some ideas to get you started:
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
 
-
-   =====         
-  = >==< =       
- =   Skills:  =
-  = >==< =       
-   =====         
-
+______                          _
+|  _  \                        | |
+| | | |  ___  _ __ ___    ___  | |
+| | | | / _ \| '_ ` _ \  / _ \ | |
+| |/ / |  __/| | | | | || (_) ||_|
+|___/   \___||_| |_| |_| \___/ (_)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
