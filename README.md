@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 😄 Pronouns: ezekiel
 
 ⚡ Fun fact: "Talk is cheap. Show me the code"
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
