@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
 
-
+Languages & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
