@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 
 
 
- ____  _    _ _ _         
-/ ___|| | _(_) | |___   _ 
-\___ \| |/ / | | / __| (_)
- ___) |   <| | | \__ \  _ 
-|____/|_|\_\_|_|_|___/ (_)
+
+  >=>>=>     >=>            >=>>   >=>>
+>>>=>    >=>  >=>       >>>  >=>   >=>
+ >=>         >=>  >=>       >=>   >=>   >===>
+   >=>       >=> >=>   >=>   >=>   >=>  >=>
+      >=>    >=>=>     >=>   >=>   >=>    >==>        >=>
+>=>    >=>   >=> >=>   >=>   >=>   >=>      >=>          
+  >=>>=>     >=>  >=>  >=>  >==>  >==>  >=> >=>       >=>
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
