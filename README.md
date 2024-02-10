@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
