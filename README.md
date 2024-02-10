@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c++,cmake,git,go,html,css,py,vim,vscode,aiscript,c,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,html,css,py,vim,vscode,aiscript,c,django&theme=light)](https://skillicons.dev)
 
