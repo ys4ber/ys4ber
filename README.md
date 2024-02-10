@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
 
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black; display: block">  >=>>=>   >=>           >=>  >=>   </span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">>=>    >=> >=>       >>  >=>  >=>                  </span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block"> >=>       >=>  >=>      >=>  >=>  >===>           </span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">   >=>     >=> >=>  >=>  >=>  >=> >=>              </span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">      >=>  >=>=>    >=>  >=>  >=>   >==>        >=></span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">>=>    >=> >=> >=>  >=>  >=>  >=>     >=>          </span>
-<span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">  >=>>=>   >=>  >=> >=> >==> >==> >=> >=>       >=></span>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">  >=>>=>   >=>           >=>  >=>   </div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">>=>    >=> >=>       >>  >=>  >=>                  </div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;"> >=>       >=>  >=>      >=>  >=>  >===>           </div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">   >=>     >=> >=>  >=>  >=>  >=> >=>              </div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">      >=>  >=>=>    >=>  >=>  >=>   >==>        >=></div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">>=>    >=> >=> >=>  >=>  >=>  >=>     >=>          </div>
+<div style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">  >=>>=>   >=>  >=> >=> >==> >==> >=> >=>       >=></div>
 
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
