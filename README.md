@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 <span style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;">Skills:</span>
 
 
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
