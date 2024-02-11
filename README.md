@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
-<h1 style="font-size:200px;">Skills :</h1>
+<div style="max-width: 800px;">
+    <h1 style="font-size: 5em;">Skills :</h1>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
