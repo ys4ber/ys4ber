@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ╔════════════════════════════════════════════════════════════╗
 
 
-<p>🔭 I’m currently working on minishell                         ║</p>
+🔭 I’m currently working on minishell<ber>              </ber>║
 
 🌱 I’m currently learning C Language                          ║                
 
