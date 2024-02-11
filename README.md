@@ -30,16 +30,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
-
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black; display: block; background: none">  >=>>=>>=>           >=>  >=>   </pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">>=>    >=> >=>       >>  >=>  >=>                  </pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block"> >=>       >=>  >=>      >=>  >=>  >===>           </pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">   >=>     >=> >=>  >=>  >=>  >=> >=>              </pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">      >=>  >=>=>    >=>  >=>  >=>   >==>        >=></pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">>=>    >=> >=> >=>  >=>  >=>  >=>     >=>          </pre>
-<pre style="color: red; font-weight: bold; text-shadow: 2px 2px 5px black;  display: block">  >=>>=>   >=>  >=> >=> >==> >==> >=> >=>       >=></pre>
-
-
+Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
