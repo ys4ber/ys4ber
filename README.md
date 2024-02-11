@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ysaber" alt="ysaber's 42 stats" /></a>
 
 
+╔════════════════════════════════════════════════════════════╗
+
 🔭 I’m currently working on minishell
 
 🌱 I’m currently learning C Language 
@@ -32,8 +34,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
+╚════════════════════════════════════════════════════════════╝
 
-<h1 style="font-size: 5em;">Skills :</h1>
+
 
 ╔══════════════════════════════════════╗
 
