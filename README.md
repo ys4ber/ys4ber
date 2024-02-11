@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 
 ╔════════════════════════════════════════════════════════════╗
 
-<span>
-🔭 I’m currently working on minishell                         ║<br/>
 
-🌱 I’m currently learning C Language                          ║<br/>                    
+<p>🔭 I’m currently working on minishell                         ║</p>
 
-💬 Ask me about anything                                      ║<br/>      
+🌱 I’m currently learning C Language                          ║                
 
-📫 How to reach me: youss42@proton.me                         ║<br/>
+💬 Ask me about anything                                      ║     
 
-😄 Pronouns: ezekiel                                          ║<br/>
+📫 How to reach me: youss42@proton.me                         ║
 
-⚡ Fun fact: "Talk is cheap. Show me the code"                 ║<br/>
-</span>
+😄 Pronouns: ezekiel                                          ║
+
+⚡ Fun fact: "Talk is cheap. Show me the code"                 ║
+
 
 ╚════════════════════════════════════════════════════════════╝
 
