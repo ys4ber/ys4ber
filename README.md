@@ -18,7 +18,14 @@ Here are some ideas to get you started:
 <html>
 <head>
     <!-- Paste the link tag here -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Your+Font+Name&display=swap">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Honk&display=swap" rel="stylesheet">
+    <style>
+        h1{
+            font-family: 'Honk', system-ui;
+        }
+    </style>
 </head>
 <body>
 
@@ -38,7 +45,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: "Talk is cheap. Show me the code"
 
-<h1 style="">Skills :</h1>
+<h1>Skills :</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
