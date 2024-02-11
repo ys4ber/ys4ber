@@ -38,11 +38,7 @@ Here are some ideas to get you started:
 
 
 
-╔═══════════╗
   <h1 style="font-size: 3em;">Skills :</h1>
-╚═══════════╝
-
-
 
 
 
