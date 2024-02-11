@@ -45,8 +45,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=light)](https://skillicons.dev)
 
-</body>
-</html>
-
 
 
