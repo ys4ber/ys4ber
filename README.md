@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Philosophers
 
-🌱 I’m currently learning C Language
+🌱 Now i am learning C Language
 
 💬 Ask me about anything
 
