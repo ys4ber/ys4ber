@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Netpracice
 
-🌱 Now i am learning C Language
+🌱 Now i am learning C Language and networking
 
 💬 Ask me about anything
 
