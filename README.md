@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ╔════════════════════════════════════════════════════════════╗
 
 
-🔭 I’m currently working on Philosophers
+🔭 I’m currently working on Netpracice
 
 🌱 Now i am learning C Language
 
