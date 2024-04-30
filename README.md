@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ╔════════════════════════════════════════════════════════════╗
 
 
-🔭 I’m currently working on Netpracice
+🔭 I’m currently working on cub3D
 
 🌱 Now i am learning C Language and networking
 
