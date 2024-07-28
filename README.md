@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Milestone 4 of common core
 
-🌱 Now i am learning C Language and networking
+🌱 Now i am learning C++
 
 💬 Ask me about anything
 
