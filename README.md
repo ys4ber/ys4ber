@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ╔════════════════════════════════════════════════════════════╗
 
 
-🔭 I’m currently working on Milestone 4 of common core
+🔭 I’m currently working on Milestone 5 of common core
 
-🌱 Now i am working on webserv
+🌱 Now i am working on Webserv
 
 💬 Ask me about anything
 
-📫 How to reach me: youss42@proton.me
+📫 How to reach me: youssefsaber01@proton.me
 
 😄 Pronouns: ezekiel
 
