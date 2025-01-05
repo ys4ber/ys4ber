@@ -13,7 +13,7 @@
 ```javascript
 const developer = {
     name: "Youssef Saber",
-    currentlyWorking: "Milestone 5 of common core",
+    currentlyWorking: "Milestone 6 of common core",
     project: "ft_transcendence",
     email: "youssefsaber01@proton.me",
     alias: "ezekiel",
@@ -23,7 +23,7 @@ const developer = {
 
 ## 🌟 Quick Facts
 
-- 🔭 I'm currently working on **Milestone 5** of common core
+- 🔭 I'm currently working on **Milestone 6** of common core
 - 🌱 My current project is **ft_transcendence**
 - 💬 Feel free to ask me about anything
 - 📫 Reach me at: **youssefsaber01@proton.me**
