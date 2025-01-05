@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Milestone 5 of common core
 
-🌱 Now i am working on Inception
+🌱 Now i am working on ft_transcendence
 
 💬 Ask me about anything
 
