@@ -38,23 +38,6 @@ const developer = {
 
 </div>
 
-### 💻 Languages & Tools
-
-- C/C++
-- Python
-- Go
-- JavaScript
-- Bash
-- Docker
-- Git
-- CMake
-- Django
-- Vim
-- VSCode
-- AIScript
-
----
-
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
