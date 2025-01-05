@@ -1,52 +1,65 @@
-### Hi there 👋
-
-<!--
-**YouS64/YouS64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on minishell
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: youss42@proton.me
-- 😄 Pronouns: ezekiel
-- ⚡ Fun fact: "Talk is cheap. Show me the code"
--->
-
+# Hi there 👋
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/Black/ysaber" alt="ysaber's 42 stats" /></a>
 
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/Black/ysaber" alt="ysaber's 42 stats" />
+  </a>
+</div>
 
-╔════════════════════════════════════════════════════════════╗
+## About Me 🚀
 
+```javascript
+const developer = {
+    name: "Youssef Saber",
+    currentlyWorking: "Milestone 5 of common core",
+    project: "ft_transcendence",
+    email: "youssefsaber01@proton.me",
+    alias: "ezekiel",
+    favoriteQuote: "Talk is cheap. Show me the code"
+};
+```
 
-🔭 I’m currently working on Milestone 5 of common core
+## 🌟 Quick Facts
 
-🌱 Now i am working on ft_transcendence
+- 🔭 I'm currently working on **Milestone 5** of common core
+- 🌱 My current project is **ft_transcendence**
+- 💬 Feel free to ask me about anything
+- 📫 Reach me at: **youssefsaber01@proton.me**
+- 😄 Known as: **ezekiel**
+- ⚡ Words to live by: *"Talk is cheap. Show me the code"*
 
-💬 Ask me about anything
+## 🛠️ Technical Skills
 
-📫 How to reach me: youssefsaber01@proton.me
+<div align="center">
 
-😄 Pronouns: ezekiel
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker,js&theme=dark)](https://skillicons.dev)
 
-⚡ Fun fact: "Talk is cheap. Show me the code"
+</div>
 
+### 💻 Languages & Tools
 
-╚════════════════════════════════════════════════════════════╝
+- C/C++
+- Python
+- Go
+- JavaScript
+- Bash
+- Docker
+- Git
+- CMake
+- Django
+- Vim
+- VSCode
+- AIScript
 
+---
 
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
 
-  <h1 style="font-size: 3em;">Skills :</h1>
-
-
-
-╔══════════════════════════════════════════════════════════╗
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker&theme=dark)](https://skillicons.dev)
-
-
-╚══════════════════════════════════════════════════════════╝
+<!--
+This README is maintained by Youssef Saber
+Feel free to reach out for collaborations or just a friendly chat!
+-->
