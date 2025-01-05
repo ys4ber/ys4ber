@@ -10,10 +10,12 @@
 
 ## About Me 🚀
 
+⚡ My approach: **learn from mistakes**
+
 ```javascript
 const developer = {
     name: "Youssef Saber",
-    currentlyWorking: "Milestone 5 of common core",
+    currentlyWorking: "Milestone 6 of common core",
     project: "ft_transcendence",
     email: "youssefsaber01@proton.me",
     alias: "ezekiel",
@@ -21,14 +23,21 @@ const developer = {
 };
 ```
 
-## 🌟 Quick Facts
+## GitHub Stats 📊
 
-- 🔭 I'm currently working on **Milestone 5** of common core
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouS64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+## 🌟 Quick Facts
+- 🔭 I'm currently working on **Milestone 6** of common core
 - 🌱 My current project is **ft_transcendence**
 - 💬 Feel free to ask me about anything
 - 📫 Reach me at: **youssefsaber01@proton.me**
 - 😄 Known as: **ezekiel**
 - ⚡ Words to live by: *"Talk is cheap. Show me the code"*
+- 🔗 Check out my [projects](https://github.com/YouS64?tab=repositories) and leave a ⭐
+- 💻 Ask me about: typescript, go, docker, nodejs, web, cli or any of my projects
 
 ## 🛠️ Technical Skills
 
@@ -38,22 +47,10 @@ const developer = {
 
 </div>
 
-### 💻 Languages & Tools
-
-- C/C++
-- Python
-- Go
-- JavaScript
-- Bash
-- Docker
-- Git
-- CMake
-- Django
-- Vim
-- VSCode
-- AIScript
-
----
+### Current Streak 🔥
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YouS64&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
