@@ -43,9 +43,7 @@ const developer = {
 </div>
 
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 This README is maintained by Youssef Saber
 Feel free to reach out for collaborations or just a friendly chat!
