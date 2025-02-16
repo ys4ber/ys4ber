@@ -41,7 +41,9 @@ const developer = {
 <div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys4ber&show_icons=true&theme=transparent)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys4ber&show_icons=true&theme=radical)
 
 <!--
 This README is maintained by Youssef Saber
