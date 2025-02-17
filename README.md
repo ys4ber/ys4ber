@@ -40,7 +40,7 @@ const developer = {
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -48,8 +48,11 @@ const developer = {
   <i>Let's connect and build something amazing together!</i>
 </div>
 
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys4ber&show_icons=true&theme=radical)
+
+</div>
 
 <!--
 This README is maintained by Youssef Saber
