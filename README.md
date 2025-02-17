@@ -45,13 +45,16 @@ const developer = {
 </div>
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
-
-<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys4ber&show_icons=true&theme=radical)
 
+</div>
+
+
+<div align="center">
+  
+  <i>Let's connect and build something amazing together! 🚀</i>
+  
 </div>
 
 <!--
