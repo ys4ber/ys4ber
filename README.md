@@ -39,6 +39,12 @@ const developer = {
 </div>
 
 <div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)]
+
+</div>
+
+<div align="center">
   <i>Let's connect and build something amazing together!</i>
 </div>
 
