@@ -23,8 +23,8 @@ const developer = {
 
 ## 🌟 Quick Facts
 
-- 🔭 I'm currently working on **Milestone 6** of common core
-- 🌱 My current project is **ft_transcendence**
+- 🔭 I'm currently working on out core projects of 42
+- 🌱 My current project is **Boot2Root**
 - 💬 Feel free to ask me about anything
 - 📫 Reach me at: **youssefsaber01@proton.me**
 - 😄 Known as: **ezekiel**
