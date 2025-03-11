@@ -8,6 +8,8 @@
   </a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ys4ber&label=Profile%20views&color=0e75b6&style=flat" alt="ys4ber" /> </p>
+
 ## About Me 🚀
 
 ```javascript
