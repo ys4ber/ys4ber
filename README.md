@@ -8,8 +8,6 @@
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ys4ber&label=Profile%20views&color=0e75b6&style=flat" alt="ys4ber" /> </p>
-
 ## About Me 🚀
 
 ```javascript
@@ -21,8 +19,6 @@ const developer = {
     alias: "ezekiel",
     favoriteQuote: "Talk is cheap. Show me the code"
 };
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ys4ber&label=Profile%20views&color=0e75b6&style=flat" alt="ys4ber" /> </p>
 ```
 
 ## 🌟 Quick Facts
@@ -33,6 +29,7 @@ const developer = {
 - 📫 Reach me at: **youssefsaber01@proton.me**
 - 😄 Known as: **ezekiel**
 - ⚡ Words to live by: *"Talk is cheap. Show me the code"*
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ys4ber&label=Profile%20views&color=0e75b6&style=flat" alt="ys4ber" /> </p>
 
 ## 🛠️ Technical Skills
 
