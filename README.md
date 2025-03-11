@@ -21,6 +21,8 @@ const developer = {
     alias: "ezekiel",
     favoriteQuote: "Talk is cheap. Show me the code"
 };
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ys4ber&label=Profile%20views&color=0e75b6&style=flat" alt="ys4ber" /> </p>
 ```
 
 ## 🌟 Quick Facts
