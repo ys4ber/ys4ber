@@ -13,8 +13,8 @@
 ```javascript
 const developer = {
     name: "Youssef Saber",
-    currentlyWorking: "Milestone 6 of common core",
-    project: "ft_transcendence",
+    currentlyWorking: "out core",
+    project: "Boot2Root",
     email: "youssefsaber01@proton.me",
     alias: "ezekiel",
     favoriteQuote: "Talk is cheap. Show me the code"
