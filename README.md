@@ -35,7 +35,7 @@ const developer = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker,js,node&theme=dark)](https://skillicons.dev)
 
 </div>
 
