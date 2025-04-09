@@ -35,7 +35,36 @@ const developer = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,git,go,bash,py,vim,vscode,aiscript,c,django,docker,js,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills]
+(
+<div align="center">
+  <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=python" title="python" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=aiscript" title="aiscript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=vim" title="vim" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
+  </p>
+</div>
+)
 
 </div>
 
