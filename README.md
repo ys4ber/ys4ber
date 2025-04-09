@@ -42,7 +42,7 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;"> <br>
     <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
@@ -50,6 +50,7 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" style="width: 50px;">
+    <br>
     <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
