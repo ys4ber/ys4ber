@@ -34,10 +34,6 @@ const developer = {
 ## 🛠️ Technical Skills
 
 <div align="center">
-
-[![My Skills]
-(
-<div align="center">
   <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=python" title="python" style="width: 50px;">
@@ -63,9 +59,6 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=vim" title="vim" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
   </p>
-</div>
-)
-
 </div>
 
 <div align="center">
