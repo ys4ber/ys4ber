@@ -62,6 +62,33 @@ const developer = {
   </p>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber&langs_count=10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<div align="center">
+  
+![ys4ber's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys4ber&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ys4ber&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=ys4ber&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys4ber&langs_count=10&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
