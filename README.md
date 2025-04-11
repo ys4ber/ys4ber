@@ -89,12 +89,38 @@ const developer = {
 
 </div>
 
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/youssef-saber" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:youssefsaber01@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
+  </a>
+  <a href="https://github.com/ys4ber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</div>
 
 <div align="center">
   
   <i>Let's connect and build something amazing together! 🚀</i>
   
 </div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Always+learning;Always+building;Always+hacking;Always+coding)](https://git.io/typing-svg)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</div>
+
 
 <!--
 This README is maintained by Youssef Saber
