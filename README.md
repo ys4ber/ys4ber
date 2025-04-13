@@ -98,7 +98,7 @@ const developer = {
   <a href="mailto:youssefsaber01@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/>
   </a>
-  <a href="https://discord.com/channels/@me/1230954357642629211" target="_blank">
+  <a href="https://discord.com/channels/@me/1150723964293890058" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
   </a>
 </div>
