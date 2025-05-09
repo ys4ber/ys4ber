@@ -14,7 +14,7 @@
 const developer = {
     name: "Youssef Saber",
     currentlyWorking: "out core",
-    project: "Boot2Root",
+    project: "snow-crash",
     email: "youssefsaber01@proton.me",
     alias: "ezekiel",
     favoriteQuote: "Talk is cheap. Show me the code"
@@ -24,7 +24,7 @@ const developer = {
 ## 🌟 Quick Facts
 
 - 🔭 I'm currently working on out core projects of 42
-- 🌱 My current project is **Boot2Root**
+- 🌱 My current project is **snow-crash**
 - 💬 Feel free to ask me about anything
 - 📫 Reach me at: **youssefsaber01@proton.me**
 - 😄 Known as: **ezekiel**
